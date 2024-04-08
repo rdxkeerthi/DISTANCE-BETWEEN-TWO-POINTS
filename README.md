@@ -40,6 +40,7 @@ print(" {:.2f}".format(d))
 
 
 ### OUTPUT:
+![OUTPUT](https://github.com/rdxkeerthi/DISTANCE-BETWEEN-TWO-POINTS/assets/147473120/118eff76-6cd5-4c1e-97c3-c0746b0c2124)
 
 
 ### RESULT:
