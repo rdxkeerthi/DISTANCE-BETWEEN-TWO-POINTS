@@ -42,6 +42,5 @@ print(" {:.2f}".format(d))
 ### OUTPUT:
 
 
-
 ### RESULT:
 Thus Distance between two points executed successfully
